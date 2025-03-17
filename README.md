@@ -1,8 +1,13 @@
-Amigo Secreto
+Titulo
+
+    Amigo Secreto
+
+    
 
 Descripción
 
-    Este proyecto es una aplicación web para realizar un sorteo de "Amigo Secreto" de manera sencilla. Los usuarios pueden ingresar nombres de participantes y seleccionar aleatoriamente uno de ellos como ganador del sorteo.
+    Este proyecto es una aplicación web para realizar un sorteo de "Amigo Secreto" de manera sencilla. Los usuarios pueden        ingresar nombres de participantes y seleccionar aleatoriamente uno de ellos como ganador del sorteo.
+
 
 
 Tecnologías Utilizadas
@@ -14,6 +19,8 @@ Tecnologías Utilizadas
     JavaScript: Lógica para agregar nombres y realizar el sorteo.
 
 
+
+
 Estructura del Proyecto
 
     AmigoSecreto/
@@ -21,6 +28,7 @@ Estructura del Proyecto
     │── style.css        # Estilos de la aplicación
     │── app.js           # Lógica del sorteo
     │── assets/          # Imágenes y recursos
+
 
 
 Funcionalidades
@@ -36,9 +44,12 @@ Funcionalidades
     Muestra el resultado en pantalla.
 
 
-Uso
-    ingresa al siguiente link:
+ 
+ Uso
     
+    Ingresa al siguiente linK: https://amigo-secreto-fawn-sigma.vercel.app/
+    
+
 
 
 
@@ -54,5 +65,5 @@ Contribución
 
 
 Autor
-
- Desarrollado por Aureliano.
+    
+    Desarrollado por Aureliano.
