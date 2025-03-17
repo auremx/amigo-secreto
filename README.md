@@ -66,4 +66,4 @@ Contribución
 
 Autor
     
-    Desarrollado por Aureliano.
+    Desarrollado por Aureliano Guzmán, alumno de Alura Latam.
